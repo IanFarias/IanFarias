@@ -17,6 +17,7 @@
 ##
   
 <div>
-  <a href="www.linkedin.com/in/ianfariaspaixão" target="_blank"><img align="center" alt="ícone-css3" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"/> 
+  <a href="https://www.linkedin.com/in/ianfariaspaix%C3%A3o/" target="_blank">
+    <img align="center" alt="ícone-css3" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"/> 
   </a>
 </div>
