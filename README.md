@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
 <div>
   <a href="https://github.com/IanFarias">
@@ -12,4 +12,12 @@
   <img align="center" alt="ícone-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ícone-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ícone-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
+  
+<div>
+  <a href="www.linkedin.com/in/ianfariaspaixão" target="_blank">
+    <img align="center" alt="ícone-css3" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /> 
+  </a>
 </div>
